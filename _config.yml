@@ -18,10 +18,10 @@ kramdown:
   enable_coderay: false
 
 # Setup
-title:               Ed.
-tagline:             'A Jekyll theme for minimal editions'
-description:         'Ed is a Jekyll theme designed for textual editors based on minimal computing principles, and focused on legibility and flexibility.'
-url:                 https://github.com/elotroalex/ed
+title:               CECAN
+tagline:             Corporación de Estudios Culturales y Ambientales del Norte
+description:         
+url:                 http://cecanong.github.io/ed
 baseurl:             '/ed'
 
 # About/contact
